@@ -1,0 +1,7 @@
+Horizon,Model,Test_Rows,MAE,RMSE
+7-Day,Persistence Baseline,132,46.93,56.82
+7-Day,Random Forest,132,123.86,151.02
+14-Day,Persistence Baseline,131,82.92,98.03
+14-Day,Random Forest,131,140.36,165.41
+30-Day,Persistence Baseline,79,156.0,177.85
+30-Day,Random Forest,79,152.06,175.15
